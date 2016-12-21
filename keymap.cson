@@ -1,0 +1,7 @@
+'body':
+  'cmd-alt left': 'window:focus-pane-on-left'
+  'cmd-alt right': 'window:focus-pane-on-right'
+  'cmd-alt up': 'window:focus-pane-above'
+  'cmd-alt down': 'window:focus-pane-below'
+  'cmd-alt-s': 'pane:split-right'
+  'cmd-alt-i': 'pane:split-down'
