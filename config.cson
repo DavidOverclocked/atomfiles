@@ -9,7 +9,6 @@
     fontSize: 12
   "exception-reporting":
     userId: "9389895c-8669-8279-cd02-d41a252f06e2"
-  "tree-view":
-    hideVcsIgnoredFiles: true
+  "tree-view": {}
   welcome:
     showOnStartup: false
